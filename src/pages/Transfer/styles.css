@@ -1,0 +1,34 @@
+.paypal-button {
+  width: 200px;
+  margin: 16px 0;
+}
+
+.ant-card-actions > li {
+  display: flex;
+  justify-content: center;
+}
+
+.ant-card-head-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.flex-container1 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.invoice-row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.invoice-label {
+  width: 120px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

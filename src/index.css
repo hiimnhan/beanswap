@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', san-serif;
+}
+
+.ant-table-container thead tr th {
+  font-weight: bold;
+}
+
+/* .ant-table-tbody > tr > td {
+  display: flex;
+  justify-content: center;
+} */

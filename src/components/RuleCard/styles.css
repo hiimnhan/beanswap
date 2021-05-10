@@ -1,0 +1,5 @@
+.delete-disabled {
+  cursor: not-allowed !important;
+  color: #ccc !important;
+  pointer-events: none !important;
+}

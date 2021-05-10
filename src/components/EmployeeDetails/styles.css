@@ -1,0 +1,32 @@
+.flex-container {
+  display: flex;
+  flex: 1 2;
+  width: 100%;
+  min-height: 400px;
+}
+
+.avatar {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.info {
+  width: 100%;
+}
+
+.detail-input {
+  border-bottom: 1px solid #334d6e;
+}
+
+.ant-form-item-label > label {
+  font-weight: bold;
+}
+
+.store-list {
+  margin-top: 50px;
+}
+
+.store-employee {
+  margin: 20px;
+}
